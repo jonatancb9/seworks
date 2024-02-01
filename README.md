@@ -1,0 +1,2 @@
+# seworks
+Beginner powershell scripts
